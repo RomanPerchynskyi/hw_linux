@@ -1,0 +1,7 @@
+   0 nano sleeper.sh
+   1 chmod 744 sleeper.sh 
+   2 ls -al
+   3 ./sleeper.sh 
+   4 ls -al
+   5 cat os_info.txt 
+   6 history > home_work_bash.txt
